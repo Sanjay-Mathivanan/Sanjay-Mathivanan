@@ -45,7 +45,7 @@ class Sanjay {
 
 <h3>🔌 Embedded</h3>
 
-STM32-Ardunino  
+STM32-Arduino  
 ROS2-Humble    
 KiCad-PCB   
 Sensors  
@@ -165,11 +165,11 @@ AI-powered agriculture monitoring system using NASA APIs.
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=sanjayjoker7&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=Sanjay-Mathivanan&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjayjoker7&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjay-Mathivanan&layout=compact&theme=tokyonight&hide_border=true"/>
 
-<img height="165em" src="https://streak-stats.demolab.com/?user=sanjayjoker7&theme=tokyonight&hide_border=true"/>
+<img height="165em" src="https://streak-stats.demolab.com/?user=Sanjay-Mathivanan&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -179,7 +179,7 @@ AI-powered agriculture monitoring system using NASA APIs.
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sanjayjoker7&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sanjay-Mathivanan&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
 
 </div>
 
@@ -207,7 +207,7 @@ AI-powered agriculture monitoring system using NASA APIs.
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://github.com/sanjayjoker7">
+<a href="https://github.com/Sanjay-Mathivanan">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
