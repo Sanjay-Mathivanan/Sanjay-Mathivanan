@@ -102,14 +102,6 @@ AI-powered precision agriculture monitoring using NASA satellite APIs and geospa
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sanjay-Mathivanan&theme=tokyonight&no-frame=true&row=1&column=7" width="100%"/>
-</div>
-
----
-
 ## 🕹 Pac-Man Eating My Contributions!
 
 <div align="center">
@@ -173,17 +165,6 @@ AI-powered precision agriculture monitoring using NASA satellite APIs and geospa
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sanjay-Mathivanan&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
 </div>
 
----
-
-## 🧑‍🚀 Current Focus
-
-| # | Area | Status |
-|---|---|---|
-| 🚗 | Cooperative Autonomous Driving (V2V) | 🔥 Active |
-| 🤖 | AI + Computer Vision on Edge Hardware | 🔥 Active |
-| ☕ | Advanced Java — Patterns & Concurrency | 📚 Learning |
-| 🔬 | Embedded Firmware Optimization (RTOS) | ⚙️ Ongoing |
-| 🌍 | Real-world IoT Deployment | 🚀 Building |
 
 ---
 
