@@ -83,6 +83,7 @@ IoT + AI automated waste classification using computer vision at the edge.
 
 ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=flat-square&logo=OpenCV&logoColor=white)
 ![STM32](https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white)
+![IoT](https://img.shields.io/badge/IoT-0082FC?style=flat-square)
 
 </td>
 <td width="50%" valign="top" style="padding:18px; border:1px solid #1f2937; border-top: 3px solid #f59e0b;">
@@ -105,6 +106,50 @@ AI-powered precision agriculture monitoring using NASA satellite APIs and geospa
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Sanjay-Mathivanan&theme=tokyonight&no-frame=true&row=1&column=7" width="100%"/>
+</div>
+
+---
+
+## 🕹 Pac-Man Eating My Contributions!
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sanjay-Mathivanan/Sanjay-Mathivanan/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sanjay-Mathivanan/Sanjay-Mathivanan/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Sanjay-Mathivanan/Sanjay-Mathivanan/output/github-contribution-grid-snake.svg" />
+</picture>
+</div>
+
+---
+
+## ⚔️ Coding Profiles
+
+<div align="center">
+<table width="80%">
+<tr>
+<td width="50%" align="center" style="padding:20px; border:1px solid #1f2937;">
+
+### 🟩 HackerRank
+
+[![HackerRank](https://img.shields.io/badge/HackerRank-sanjaisp7-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/sanjaisp7)
+
+![Problem Solving](https://img.shields.io/badge/Problem%20Solving-⭐⭐⭐-brightgreen?style=flat-square)
+![Java](https://img.shields.io/badge/Java-⭐⭐⭐-brightgreen?style=flat-square)
+![Python](https://img.shields.io/badge/Python-⭐⭐-brightgreen?style=flat-square)
+
+</td>
+<td width="50%" align="center" style="padding:20px; border:1px solid #1f2937;">
+
+### 🟧 LeetCode
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-zMP08wtaf9-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/zMP08wtaf9/)
+
+![DSA](https://img.shields.io/badge/Focus-Arrays%20%7C%20Graphs%20%7C%20DP-orange?style=flat-square)
+![Language](https://img.shields.io/badge/Language-Java%20%7C%20Python-orange?style=flat-square)
+
+</td>
+</tr>
+</table>
 </div>
 
 ---
@@ -154,6 +199,12 @@ AI-powered precision agriculture monitoring using NASA satellite APIs and geospa
 </a>
 <a href="https://github.com/Sanjay-Mathivanan">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://www.hackerrank.com/profile/sanjaisp7">
+  <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>
+</a>
+<a href="https://leetcode.com/u/zMP08wtaf9/">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/>
 </a>
 
 </div>
